@@ -5,7 +5,9 @@
 //  Created by pothuri raju on 01/06/22.
 //
 
-// Using face id 
+//  code for Using face id 
+// add privacy- face id in info.plist
+
 import UIKit
 import LocalAuthentication
 
